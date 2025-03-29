@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/119154806/212716967-de0e28f0-1ed0-4f7c
 Details (About Code):
 * You can change the code according to yourself.
 * The code is easy to understand and its completed in only 100 lines.
-* If you need any help regarding the code, contact me on telegram at @SOUL_AYU
+* If you need any help regarding the code, contact me on [WhatsApp](https://wa.link/wsov41)
 
     
 Issues:
